@@ -403,7 +403,7 @@ a{
     
 }
 .yes1{
-    background-image: url(/asset2024/img/nak1.jpg);
+    background-image: url(/asset/img/nak1.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -411,7 +411,7 @@ a{
     
 }
 .yes2{
-    background-image: url(/asset2024/img/nak2.jpg);
+    background-image: url(/asset/img/nak2.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -419,14 +419,14 @@ a{
     
 }
 .yes3{
-    background-image: url(/asset2024/img/nak3.jpg);
+    background-image: url(/asset/img/nak3.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
     cursor: pointer;
 }
 .yes4{
-    background-image: url(/asset2024/img/nak4.jpg);
+    background-image: url(/asset/img/nak4.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -434,7 +434,7 @@ a{
     
 }
 .yes5{
-    background-image: url(/asset2024/img/nak5.jpg);
+    background-image: url(/asset/img/nak5.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -473,7 +473,7 @@ a{
     margin-left: 45px;
 }
 .ne1{
-    background-image: url(/asset2024/img/modelo1.webp);
+    background-image: url(/asset/img/modelo1.webp);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -481,7 +481,7 @@ a{
     
 }
 .ne2{
-    background-image: url(/asset2024/img/modelomedio.jpeg);
+    background-image: url(/asset/img/modelomedio.jpeg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -489,7 +489,7 @@ a{
     
 }
 .ne3{
-    background-image: url(/asset2024/img/modelonino.jpg);
+    background-image: url(/asset/img/modelonino.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -508,35 +508,35 @@ a{
 }
 
 .gire1{
-    background-image: url(/asset2024/img/zap11.png);
+    background-image: url(/asset/img/zap11.png);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
     cursor: pointer;
 }
 .gire2{
-    background-image: url(/asset2024/img/zap2.png);
+    background-image: url(/asset/img/zap2.png);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
     cursor: pointer;
 }
 .gire3{
-    background-image: url(/asset2024/img/zap3.png);
+    background-image: url(/asset/img/zap3.png);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
     cursor: pointer;
 }
 .gire4{
-    background-image: url(/asset2024/img/zap44.png);
+    background-image: url(/asset/img/zap44.png);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
     cursor: pointer;
 }
 .gire5{
-    background-image: url(/asset2024/img/zap5.png);
+    background-image: url(/asset/img/zap5.png);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -558,35 +558,35 @@ button:hover{
 
 }
 .negro1{
-    background-image: url(/asset2024/img/oscuro2.jpg);
+    background-image: url(/asset/img/oscuro2.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
     cursor: pointer;
 }
 .negro2{
-    background-image: url(/asset2024/img/futbolnergro.avif);
+    background-image: url(/asset/img/futbolnergro.avif);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
     cursor: pointer;
 }
 .negro3{
-    background-image: url(/asset2024/img/baloncestonegro.jpg);
+    background-image: url(asset/img/baloncestonegro.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
     cursor: pointer;
 }
 .negro4{
-    background-image: url(/asset2024/img/culturismo.jpg);
+    background-image: url(/asset/img/culturismo.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
     cursor: pointer;
 }
 .negro5{
-    background-image: url(/asset2024/img/tenis.webp);
+    background-image: url(/asset/img/tenis.webp);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
@@ -777,13 +777,3 @@ button:hover{
     margin-left: 35px;
     margin-top: 40px;
 }
-
-
-
-background-image: url(futbolnergro.avif);
-background-repeat: no-repeat ;
-background-size: cover;
-background-position: center;
-cursor: pointer;
-
-overflow-x: auto;
