@@ -572,7 +572,7 @@ button:hover{
     cursor: pointer;
 }
 .negro3{
-    background-image: url(asset/img/baloncestonegro.jpg);
+    background-image: url(/asset/img/baloncestonegro.jpg);
     background-repeat: no-repeat ;
     background-size: cover;
     background-position: center;
