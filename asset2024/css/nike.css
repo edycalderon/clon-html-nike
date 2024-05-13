@@ -1,0 +1,789 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+.barra-uno{
+    background-color: #F2F3F4 ;
+}
+.box{
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    left: 840px;
+    margin: 7px;
+    font-size: 15px;
+}
+.a::before{
+    content: "| ";
+}
+#none{
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    margin-left: 40px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    padding: auto;
+}
+.logo-g{
+    padding: auto;
+    margin-left: 20px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+
+}
+.con{
+    background-color: transparent;
+
+}
+
+.conteiner-barra-uno{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 24px;
+    height: 25px;
+    background-color: red;
+}
+.conteiner-barra-dos{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 24px;
+    height: 25px;
+    background-color: red;
+}
+.conteiner-barra-tres{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 24px;
+    height: 25px;
+    background-color: red;
+}
+
+
+.papa{
+    display: flex;
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    
+}
+
+.nikerr{
+    position: absolute;
+    margin-left: 45px;
+}
+.li{
+    display: inline-block;
+    
+    
+}
+.lis{
+    display: inline-block;
+    position: relative;
+    left: 390px;
+    margin: 7px;
+    font-size: 17px;
+    
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    display: inline-block;
+}
+#no{
+    text-decoration: none;
+    color: black;
+    
+}
+.navegation{
+    justify-content:end;
+    position: absolute;
+    margin-left: 38%;
+    display: inline-block;
+    margin-top: 20px;
+    
+}
+.sub-mavegation{
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 40px;
+}
+.navegation:hover{
+    box-shadow: 0px 1px 1px 1px grey;
+}
+.cora{
+    display: inline-block;
+    position: absolute;
+    margin-left: 805px;
+    margin-top: 20px;
+}
+.bolsa{
+    display: inline-block;
+    position: absolute;
+    margin-left: 860px;
+    margin-top: 20px;
+}
+.tercera-barra{
+    background-color: #F2F3F4;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    font-size: 15px;
+}
+.barra-tres{
+    text-align: center;
+}
+
+.imag-padre{
+    display: flex;
+    width: 100%;
+    height: 230px;
+    background-color: black;
+    cursor: pointer;
+    
+}
+.list{
+    list-style: none;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+.listerme{
+    list-style: none;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+
+}
+
+.listpru{
+    display: flex;
+    flex-direction: column;
+}
+.bobot{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.para{
+    font-size: 50px;
+    font-weight: 900;
+}
+.esto-grande{
+    font-size: 20px;
+}
+.bot{
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 110px;
+    height: 40px;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.botri{
+    border-radius: 20px;
+    margin-top: 5px;
+    width: 110px;
+    height: 40px;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+
+}
+.liste{
+    text-decoration: none;
+    color: black;
+}
+
+.papus{
+    display: flex;
+    width: 100%;
+    height: 430px;
+    margin-top: 15px;
+}
+.bcg{
+    width: 142rem;
+    height: 50rem;
+    cursor: pointer;
+}
+
+.padre-final{
+    position: absolute;
+}
+.listado-final{
+    display: flex;
+    list-style: none;
+    color: white;
+    flex-direction: column;
+    text-decoration: none;
+}
+.listado-final-de{
+    display: flex;
+    list-style: none;
+    color: white;
+    flex-direction: column;
+    text-decoration: none;
+}
+.margi{
+    margin-top: 300px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.margi-dos{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.h{
+    font-size: 23px;
+}
+.d{
+    font-size: 60px;
+    font-weight: 1000;
+}
+.bott{
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 110px;
+    height: 40px;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.botri{
+    border-radius: 20px;
+    margin-top: 100px;
+    width: 110px;
+    height: 40px;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.padre-p{
+    display: flex;
+    flex-direction: row;
+    margin-top: 13.5rem;
+    margin-left: 45px;
+}
+.pp{
+    margin-bottom: 25px;
+    font-size: 27px;
+    margin-left: 5px;
+}
+.padre-a{
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    margin-top: 4rem;
+    margin-left: 45px;
+}
+.jj{
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+    margin-left: 40px;
+    margin-bottom: 35px;
+    cursor:pointer;
+    
+}
+.jjj{
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+    margin-left: 40px;
+    border-bottom: solid 80px white;
+}
+.scroll-uno{
+    margin-top: 40px;
+    margin-left: 5px;
+
+}
+.scroll-dos{
+    display: flex;
+    margin-top: 40px;
+    border: solid 3px red;
+    
+}
+
+.categoria{
+    background-color: white;
+    letter-spacing:5px;
+    
+    width: 100%;
+    overflow-x: auto;
+}
+.categoriag{
+    background-color: white;
+    letter-spacing:5px;
+
+    width: 100%;
+    overflow-x: auto;
+}
+
+.cero{
+    margin-top: 60px;
+    font-size: 25px;
+    letter-spacing: 0;
+    
+}
+.cerog{
+    position: absolute;
+    margin-top: 0px;
+    font-size: 25px;
+    border: solid 3px red;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.espacios-m{
+    display: flex;
+    width: 100%;
+    height: 430px;
+}
+#o{
+    font-size: 15px;
+    letter-spacing: 0;
+}
+.precios{
+    font-size: 20px;
+    letter-spacing: 0;
+}
+.espacios-love{
+    border: solid red;
+    width: 450px;
+    height: 500;
+    background-image: url(nak1.jpg);
+    
+}
+
+
+.ultimo-scrolld{
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+    border-bottom: solid 40px white;
+    background-color: white;
+    letter-spacing:5px;
+    width: 100%;
+    overflow-x: auto;
+
+}
+.ya{
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+    margin-left: 40px;
+    border-bottom: solid 40px white;
+}
+.ult{
+
+    width: 450px;
+    height: 500px;
+
+}
+.ultk{
+    width: 450px;
+    height: 550px;
+    
+}
+.yes1{
+    background-image: url(/asset2024/img/nak1.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    
+}
+.yes2{
+    background-image: url(/asset2024/img/nak2.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    
+}
+.yes3{
+    background-image: url(/asset2024/img/nak3.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.yes4{
+    background-image: url(/asset2024/img/nak4.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    
+}
+.yes5{
+    background-image: url(/asset2024/img/nak5.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    
+}
+
+.htp{
+    margin-top: 350px;
+    font-size: 16px;
+    letter-spacing: 0;
+    color: white;
+    font-weight:900;
+}
+.pth{
+    font-size: 23px;
+    letter-spacing: 0;
+    color: white;
+    font-weight:900;
+}
+.buthtp{
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: solid transparent;
+
+}
+.padre-to{
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    margin-top: 3.5rem;
+    margin-left: 45px;
+}
+.ne1{
+    background-image: url(/asset2024/img/modelo1.webp);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    
+}
+.ne2{
+    background-image: url(/asset2024/img/modelomedio.jpeg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    
+}
+.ne3{
+    background-image: url(/asset2024/img/modelonino.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.yip{
+    margin-top: 450px;
+    margin-left: 30px;
+}
+.edy{
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+    margin-left: 45px;
+}
+
+.gire1{
+    background-image: url(/asset2024/img/zap11.png);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.gire2{
+    background-image: url(/asset2024/img/zap2.png);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.gire3{
+    background-image: url(/asset2024/img/zap3.png);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.gire4{
+    background-image: url(/asset2024/img/zap44.png);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.gire5{
+    background-image: url(/asset2024/img/zap5.png);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.giregarcia{
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: solid transparent;
+    margin-top: 380px;
+    margin-left: 40px;
+}
+button:hover{
+    background-color: #BDC3C7;
+
+}
+.negro1{
+    background-image: url(/asset2024/img/oscuro2.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.negro2{
+    background-image: url(/asset2024/img/futbolnergro.avif);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.negro3{
+    background-image: url(/asset2024/img/baloncestonegro.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.negro4{
+    background-image: url(/asset2024/img/culturismo.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.negro5{
+    background-image: url(/asset2024/img/tenis.webp);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+.calderon{
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+    margin-left: 45px;
+
+}
+.nike-men{
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 45px;
+
+}
+.wan{
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+    background-color: white;
+    letter-spacing:5px;
+    width: 100%;
+    overflow-x: auto;
+}
+
+
+.pie-unod{
+    display: flex;
+    width: 100%;
+    height: 300px;
+}
+.pieee{
+    display: flex;
+    flex-direction: row;
+    margin-left: 180px;
+    gap: 30px;
+}
+
+.zapatillas{
+    width: 250px;
+    height: 350px;
+}
+.Ropa{
+    width: 250px;
+    height: 350px;
+}
+.nino{
+    width: 250px;
+    height: 350px;
+}
+.Destacados{
+    width: 250px;
+    height: 350px;
+}
+
+.pie20{
+    list-style: none;
+}
+
+.tire{
+    font-size: 21px;
+}
+.gris{
+    font-size: 23px;
+    color: #A6ACAF;
+}
+.gris:hover{
+    color: black;
+}
+
+
+.ultimo-pie{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+.pie-ulti{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    gap: 30px;
+    margin-top: 45px;
+
+}
+
+.tarjetas{
+    width: 250px;
+    height: 350px;
+
+}
+.ayuda{
+    width: 250px;
+    height: 350px;
+}
+.empresa{
+    width: 250px;
+    height: 350px;
+}
+.toto{
+    list-style: none;
+}
+
+.grosorpie{
+    font-weight:900;
+    font-size: 15px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+.tui{
+    width: 50px;
+    height: 50px;
+    margin-left: 200px;
+    border-radius:30px ;
+    background-color: #A6ACAF;
+}
+.tui:hover{
+    background-color: aliceblue;
+}
+
+
+.fac{
+    width: 50px;
+    height: 50px;
+    border-radius:30px ;
+    background-color: #A6ACAF;
+}
+.fac:hover{
+    background-color: aliceblue;
+}
+
+.you{
+    width: 50px;
+    height: 50px;
+    border-radius:30px ;
+    background-color: #A6ACAF;
+}
+.you:hover{
+    background-color: aliceblue;
+}
+
+.inst{
+    width: 50px;
+    height: 50px;
+    border-radius:70px;
+    background-color: #A6ACAF;
+    
+}
+.inst:hover{
+    background-color: aliceblue;
+}
+
+.leter{
+    color: #909497 ;
+    font-size: 15px;
+}
+.leter:hover{
+    color: white;
+}
+
+.yoga{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+
+#los{
+    margin-left: 20px;
+    color: white;
+}
+#spain{
+    margin-left: 10px;
+    font-size: 15px;
+    color: white;
+}
+.ubicacion{
+    margin-left: 35px;
+    margin-top: 40px;
+}
+
+
+
+background-image: url(futbolnergro.avif);
+background-repeat: no-repeat ;
+background-size: cover;
+background-position: center;
+cursor: pointer;
+
+overflow-x: auto;
